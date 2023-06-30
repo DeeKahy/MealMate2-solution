@@ -1,0 +1,83 @@
+[
+  {
+    "Name": "Product A",
+    "ExperationDate": "2024-06-30",
+    "Price": "19.99",
+    "Description": "This is a mock product description.",
+    "Image": "https://example.com/productA.jpg",
+    "weightORQuantity": "200 grams",
+    "initWeightORQuantity": "250 grams"
+  },
+  {
+    "Name": "Product B",
+    "ExperationDate": "2023-12-31",
+    "Price": "12.99",
+    "Description": "This is another mock product description.",
+    "Image": "https://example.com/productB.jpg",
+    "weightORQuantity": "1 pack",
+    "initWeightORQuantity": "10 pieces"
+  },
+  {
+    "Name": "Product C",
+    "ExperationDate": "2025-08-15",
+    "Price": "9.99",
+    "Description": "A third mock product description.",
+    "Image": "https://example.com/productC.jpg",
+    "weightORQuantity": "500 mL",
+    "initWeightORQuantity": "1 liter"
+  },
+  {
+    "Name": "Product C",
+    "ExperationDate": "2025-08-15",
+    "Price": "9.99",
+    "Description": "A third mock product description.",
+    "Image": "https://example.com/productC.jpg",
+    "weightORQuantity": "500 mL",
+    "initWeightORQuantity": "1 liter"
+  },
+  {
+    "Name": "Product C",
+    "ExperationDate": "2025-08-15",
+    "Price": "9.99",
+    "Description": "A third mock product description.",
+    "Image": "https://example.com/productC.jpg",
+    "weightORQuantity": "500 mL",
+    "initWeightORQuantity": "1 liter"
+  },
+  {
+    "Name": "Product C",
+    "ExperationDate": "2025-08-15",
+    "Price": "9.99",
+    "Description": "A third mock product description.",
+    "Image": "https://example.com/productC.jpg",
+    "weightORQuantity": "500 mL",
+    "initWeightORQuantity": "1 liter"
+  },
+  {
+    "Name": "Product C",
+    "ExperationDate": "2025-08-15",
+    "Price": "9.99",
+    "Description": "A third mock product description.",
+    "Image": "https://example.com/productC.jpg",
+    "weightORQuantity": "500 mL",
+    "initWeightORQuantity": "1 liter"
+  },
+  {
+    "Name": "Product C",
+    "ExperationDate": "2025-08-15",
+    "Price": "9.99",
+    "Description": "A third mock product description.",
+    "Image": "https://example.com/productC.jpg",
+    "weightORQuantity": "500 mL",
+    "initWeightORQuantity": "1 liter"
+  },
+  {
+    "Name": "Product C",
+    "ExperationDate": "2025-08-15",
+    "Price": "9.99",
+    "Description": "A third mock product description.",
+    "Image": "https://example.com/productC.jpg",
+    "weightORQuantity": "500 mL",
+    "initWeightORQuantity": "1 liter"
+  }
+]

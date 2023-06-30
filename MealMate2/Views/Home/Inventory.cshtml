@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Hola amigo</h1>
+    <p>Your name is @User.Identity?.Name, welcome!</p>
+</div>
+
+
+@model List<MealMate2.Models.ActiveItemModel>
+
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Expiration Date</th>
+                <th>Price</th>
+                <th>Description</th>
+                <th>Image</th>
+                <th>Weight / Quantity</th>
+                <th>Initial Weight / Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.ExperationDate</td>
+                    <td>@item.Price</td>
+                    <td>@item.Description</td>
+                    <td><img src="@item.Image" alt="@item.Name" class="img-thumbnail" style="width: 100px;"></td>
+                    <td>@item.weightORQuantity</td>
+                    <td>@item.initWeightORQuantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
